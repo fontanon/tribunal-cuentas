@@ -10,7 +10,14 @@ En este repositorio puedes encontrar una transcripción a datos abiertos (csv, o
 
 <a href="http://public.tableausoftware.com/views/FinanciacindePartidosPolticos2009-2011v2/VistazoPorPartidos#1"><img src="./imgs/total_financiacion.png"></img></a>
 
-Os comparto mis <em>insights</em>:
+<table>
+<tr>
+<td><a href="http://public.tableausoftware.com/views/FinanciacindePartidosPolticos2009-2011v2/VistazoPorTipoFinanciacin#1"><img src="./imgs/comparativa_origen_financiacion.png"></img></a></td>
+<td><a href="http://public.tableausoftware.com/views/FinanciacindePartidosPolticos2009-2011v2/VistazoPorTipoFinanciacin#1"><img src="./imgs/comparativa_fuentes_financiacion.png"></img></a></td>
+</tr>
+</table>
+
+<b>Os comparto mis <em>insights</em></b>:
 <ul>
 <li>Entre 2009 y 2011 los partidos obligados a declarar ante el Tribunal de Cuentas han recibido un total de más de <a href="http://public.tableausoftware.com/views/FinanciacindePartidosPolticos2009-2011v2/ComparativaFuentesFinanciacin">1.700 millones de euros</a>, de los que 850 millones corresponden a financiaciónn pública, 202 millones fuentes privadas y 730 millones en préstamos con entidades de crédito.</li>
 <li>El bipartidismo se hace patente: <a href="http://public.tableausoftware.com/views/FinanciacindePartidosPolticos2009-2011v2/TotalFinanciacin#1">PP y PSOE acumulan más de la mitad del total</a> (1.000 millones de euros).</li>
@@ -18,10 +25,3 @@ Os comparto mis <em>insights</em>:
 <li>Tras PP y PSOE son <a href="http://public.tableausoftware.com/shared/HJ34XYB2Q?:display_count=no">PNV e IU los que abanderan la recepción de fondos por vías de financiación privada</a>.</li>
 <li>Sólo en 2011 las entidades de crédito concedieron 275 millones de euros al total de los partidos políticos, <a href="http://public.tableausoftware.com/shared/53BKKP8K6?:display_count=no">un 20% más respecto de 2010</a>. <a href="http://public.tableausoftware.com/shared/JF4J7JPGP?:display_count=no">El TOP 3 de partidos que reciben donaciones entre 2009 y 2011</a> son (por este órden): PSOE, PSC y PP. De todos los procesos electorales celebrados fueron las elecciones locales de 2011 las que más dinero restaron a las arcas públicas (43 millones de Euros), <a href="http://public.tableausoftware.com/shared/7HQZRBH7T?:display_count=no">un 50% más que las elecciones generales de 2008 y 2011 juntas</a></li>
 </ul>
-
-<table>
-<tr>
-<td><a href="http://public.tableausoftware.com/views/FinanciacindePartidosPolticos2009-2011v2/VistazoPorTipoFinanciacin#1"><img src="./imgs/comparativa_origen_financiacion.png"></img></a></td>
-<td><a href="http://public.tableausoftware.com/views/FinanciacindePartidosPolticos2009-2011v2/VistazoPorTipoFinanciacin#1"><img src="./imgs/comparativa_fuentes_financiacion.png"></img></a></td>
-</tr>
-</table>
